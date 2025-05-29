@@ -6,7 +6,11 @@
 /chroma_data_4
 /chroma_data_5  
 /uploads
-
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local   
 /chroma_db
 
 /__pycache__

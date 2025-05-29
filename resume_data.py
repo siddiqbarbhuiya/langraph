@@ -8,7 +8,8 @@ RESUMES = [
                    "Certifications: AWS Certified Developer - Associate. "
                    "Academics: M.S. Computer Science, Stanford University (2015). B.Tech Computer Engineering, IIT Bombay (2013). "
                    "Achievements: Awarded 'Developer of the Year' at TechCorp (2020), optimized database queries reducing load by 30%. "
-                   "Company Experience: Senior Python Developer at TechCorp (2018-Present), Software Engineer at WebSolutions (2015-2018).",
+                   "Company Experience: Senior Python Developer at TechCorp (2018-Present), Software Engineer at WebSolutions (2015-2018). "
+                   "Expected Salary: ₹25,00,000 per annum.", # Added salary
         "metadata": {"name": "Alice Johnson", "experience": "8 years", "role": "Python Developer"}
     },
     {
@@ -18,7 +19,8 @@ RESUMES = [
                    "Certifications: Google Cloud Professional Data Engineer. "
                    "Academics: Ph.D. Artificial Intelligence, MIT (2019). B.Sc. Statistics, University of California, Berkeley (2014). "
                    "Achievements: Published 2 papers in top-tier ML conferences, improved model accuracy by 15% leading to 10% revenue increase. "
-                   "Company Experience: Data Scientist at DataGenius (2019-Present), Research Assistant at MIT (2015-2019).",
+                   "Company Experience: Data Scientist at DataGenius (2019-Present), Research Assistant at MIT (2015-2019). "
+                   "Expected Salary: ₹20,00,000 per annum.", # Added salary
         "metadata": {"name": "Bob Smith", "experience": "5 years", "role": "Data Scientist"}
     },
     {
@@ -28,7 +30,8 @@ RESUMES = [
                    "Certifications: FreeCodeCamp Frontend Development Libraries. "
                    "Academics: B.S. Computer Science, University of Washington (2022). "
                    "Achievements: Built and launched a personal portfolio website, contributed to open-source project X. "
-                   "Company Experience: Junior Frontend Developer at StartupNexus (2022-Present).",
+                   "Company Experience: Junior Frontend Developer at StartupNexus (2022-Present). "
+                   "Expected Salary: ₹8,00,000 per annum.", # Added salary
         "metadata": {"name": "Charlie Brown", "experience": "2 years", "role": "Web Developer"}
     },
     {
@@ -38,7 +41,8 @@ RESUMES = [
                    "Certifications: Oracle Certified Professional, Java SE 11 Developer. "
                    "Academics: M.Eng. Software Engineering, Carnegie Mellon University (2015). B.Tech Information Technology, IIT Delhi (2013). "
                    "Achievements: Led migration of legacy system to microservices, resulting in 20% performance boost. "
-                   "Company Experience: Lead Full Stack Engineer at FinCo Solutions (2019-Present), Senior Software Engineer at GlobalBank (2015-2019).",
+                   "Company Experience: Lead Full Stack Engineer at FinCo Solutions (2019-Present), Senior Software Engineer at GlobalBank (2015-2019). "
+                   "Expected Salary: ₹30,00,000 per annum.", # Added salary
         "metadata": {"name": "Diana Prince", "experience": "10 years", "role": "Full Stack Engineer"}
     },
     {
@@ -48,7 +52,8 @@ RESUMES = [
                    "Certifications: Certified Kubernetes Administrator (CKA), Microsoft Certified: Azure DevOps Engineer Expert. "
                    "Academics: B.E. Electrical Engineering, University of Texas at Austin (2017). "
                    "Achievements: Reduced deployment time by 50% through CI/CD pipeline automation, built self-healing infrastructure. "
-                   "Company Experience: DevOps Lead at CloudBuilders Inc. (2020-Present), DevOps Engineer at InfraSolutions (2017-2020).",
+                   "Company Experience: DevOps Lead at CloudBuilders Inc. (2020-Present), DevOps Engineer at InfraSolutions (2017-2020). "
+                   "Expected Salary: ₹22,00,000 per annum.", # Added salary
         "metadata": {"name": "Eve Adams", "experience": "7 years", "role": "DevOps Engineer"}
     },
     {
@@ -58,7 +63,8 @@ RESUMES = [
                    "Certifications: Certified Scrum Product Owner (CSPO). "
                    "Academics: MBA, Harvard Business School (2018). B.A. Economics, University of Pennsylvania (2013). "
                    "Achievements: Launched 3 successful SaaS products exceeding revenue targets, developed product roadmap for 2M+ users. "
-                   "Company Experience: Senior Product Manager at SaaSInnovate (2018-Present), Business Analyst at ConsultCorp (2013-2016).",
+                   "Company Experience: Senior Product Manager at SaaSInnovate (2018-Present), Business Analyst at ConsultCorp (2013-2016). "
+                   "Expected Salary: ₹18,00,000 per annum.", # Added salary
         "metadata": {"name": "Frank White", "experience": "6 years", "role": "Product Manager"}
     },
     {
@@ -68,7 +74,8 @@ RESUMES = [
                    "Certifications: Google UX Design Professional Certificate. "
                    "Academics: B.F.A. Graphic Design, Rhode Island School of Design (2020). "
                    "Achievements: Redesigned core app features improving user engagement by 25%, won 'Best UI Design' award at university. "
-                   "Company Experience: UX/UI Designer at DesignPro (2020-Present).",
+                   "Company Experience: UX/UI Designer at DesignPro (2020-Present). "
+                   "Expected Salary: ₹14,00,000 per annum.", # Added salary
         "metadata": {"name": "Grace Lee", "experience": "4 years", "role": "UX/UI Designer"}
     },
     {
@@ -78,7 +85,8 @@ RESUMES = [
                    "Certifications: Cloudera Certified Associate (CCA) Data Analyst. "
                    "Academics: M.S. Data Science, Georgia Tech (2016). B.S. Applied Math, University of Michigan (2014). "
                    "Achievements: Engineered a real-time data pipeline processing terabytes of data daily, optimized data warehouse performance by 40%. "
-                   "Company Experience: Lead Data Engineer at DataStream (2019-Present), Data Engineer at InfoWorks (2016-2019).",
+                   "Company Experience: Lead Data Engineer at DataStream (2019-Present), Data Engineer at InfoWorks (2016-2019). "
+                   "Expected Salary: ₹28,00,000 per annum.", # Added salary
         "metadata": {"name": "Henry Green", "experience": "9 years", "role": "Data Engineer"}
     },
     {
@@ -88,7 +96,8 @@ RESUMES = [
                    "Certifications: IBM Certified Data Engineer - Big Data. "
                    "Academics: B.Tech Computer Science, Harvard University (2020). "
                    "Achievements: Developed a custom data processing framework, reduced batch processing time by 20%. "
-                   "Company Experience: Software Engineer at Analytics Innovations (2020-Present).",
+                   "Company Experience: Software Engineer at Analytics Innovations (2020-Present). "
+                   "Expected Salary: ₹15,00,000 per annum.", # Added salary
         "metadata": {"name": "Siddiq Barbhuiya", "experience": "4 years", "role": "Software Engineer"}
     }
 ]
