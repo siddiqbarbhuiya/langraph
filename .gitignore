@@ -1,0 +1,12 @@
+/venv
+/chroma
+/chroma_data
+/chroma_data_2
+/chroma_data_3
+/chroma_data_4
+/chroma_data_5  
+/uploads
+
+/chroma_db
+
+/__pycache__
